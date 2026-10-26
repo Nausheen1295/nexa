@@ -2,27 +2,27 @@
  "Explain SecureVault AI": [
   [
    "securevault-ai:ai",
-   14.749791
+   14.942799
   ],
   [
    "nexa:architecture",
-   10.766778
+   10.539166
   ],
   [
    "securevault-ai:readme:1",
-   8.837769
+   8.947187
   ],
   [
    "securevault-ai:readme:8",
-   8.717662
+   8.827658
   ],
   [
    "securevault-ai:readme:3",
-   8.420525
+   8.526664
   ],
   [
    "securevault-ai:stack",
-   8.404189
+   8.513131
   ],
   [
    "securevault-ai:undocumented",
@@ -36,27 +36,27 @@
  "Why did you use AES-256-GCM?": [
   [
    "securevault-ai:readme:2",
-   5.472913
+   5.542186
   ],
   [
    "securevault-ai:stack",
-   3.918071
+   3.972289
   ],
   [
    "securevault-ai:overview",
-   3.241154
+   3.290268
   ],
   [
    "securevault-ai:security",
-   3.159281
+   3.207657
   ],
   [
    "securevault-ai:features",
-   2.223265
+   2.261367
   ],
   [
    "securevault-ai:architecture",
-   1.788707
+   1.820881
   ],
   [
    "securevault-ai:undocumented",
@@ -65,54 +65,54 @@
  ],
  "What is NEXA?": [
   [
+   "nexa:readme:0",
+   7.011292
+  ],
+  [
    "nexa:undocumented",
-   7.721897
+   6.765212
   ],
   [
    "nexa:stack",
-   7.515192
+   6.584158
   ],
   [
    "nexa:ai",
-   7.475777
+   6.549948
   ],
   [
    "nexa:database",
-   7.475777
+   6.549948
   ],
   [
-   "nexa:overview",
-   7.410617
-  ],
-  [
-   "nexa:problem-solution",
-   7.250551
+   "nexa:readme:3",
+   6.507621
   ]
  ],
  "plant disease photo": [
   [
    "floramind-ai:results",
-   8.275483
+   8.389193
   ],
   [
    "floramind-ai:problem-solution",
-   8.096661
+   8.210441
   ],
   [
    "floramind-ai:readme:7",
-   6.958052
+   7.063307
   ],
   [
    "floramind-ai:readme:2",
-   5.997037
+   6.089103
   ],
   [
    "floramind-ai:readme:1",
-   5.698534
+   5.788026
   ],
   [
    "floramind-ai:overview",
-   4.470381
+   4.533034
   ],
   [
    "floramind-ai:undocumented",
@@ -122,41 +122,49 @@
  "Where did Nausheen study?": [
   [
    "profile:education",
-   13.158238
+   13.289205
   ],
   [
    "stock-price-prediction:problem-solution",
-   4.612369
+   4.17113
+  ],
+  [
+   "nexa:readme:0",
+   3.692672
   ],
   [
    "stock-price-prediction:undocumented",
+   0.0
+  ],
+  [
+   "nexa:undocumented",
    0.0
   ]
  ],
  "What was the biggest challenge in SecureVault AI?": [
   [
    "securevault-ai:ai",
-   14.749791
+   14.942799
   ],
   [
    "securevault-ai:undocumented",
-   12.758683
+   12.945433
   ],
   [
    "nexa:architecture",
-   10.766778
+   10.539166
   ],
   [
    "securevault-ai:readme:1",
-   8.837769
+   8.947187
   ],
   [
    "securevault-ai:readme:8",
-   8.717662
+   8.827658
   ],
   [
    "securevault-ai:readme:3",
-   8.420525
+   8.526664
   ],
   [
    "nexa:undocumented",
@@ -166,27 +174,27 @@
  "climate geospatial maps": [
   [
    "earthpulse:overview",
-   8.383076
+   8.499278
   ],
   [
    "earthpulse:timeline",
-   7.9504
+   8.063659
   ],
   [
    "earthpulse:readme:0",
-   7.457311
+   7.566815
   ],
   [
    "nexus:labs",
-   4.299745
+   4.372663
   ],
   [
    "mindscape-ai:overview",
-   4.022559
+   4.075236
   ],
   [
    "mindscape-ai:readme:0",
-   3.732382
+   3.782955
   ],
   [
    "earthpulse:undocumented",
@@ -200,41 +208,87 @@
  "How does MindScape AI find related notes?": [
   [
    "mindscape-ai:problem-solution",
-   25.269942
+   25.632229
   ],
   [
    "mindscape-ai:readme:0",
-   19.288979
+   19.572704
   ],
   [
    "mindscape-ai:overview",
-   18.652905
+   18.931381
   ],
   [
    "mindscape-ai:readme:1",
-   16.571902
+   16.850668
   ],
   [
    "mindscape-ai:architecture",
-   15.921389
+   16.176595
   ],
   [
    "mindscape-ai:readme:2",
-   14.87807
+   15.128138
   ],
   [
    "mindscape-ai:undocumented",
    0.0
   ]
  ],
+ "What has Nausheen built?": [
+  [
+   "earthpulse:problem-solution",
+   3.659322
+  ],
+  [
+   "corizo-ecommerce:readme:0",
+   3.210118
+  ],
+  [
+   "nexa:readme:0",
+   3.187104
+  ],
+  [
+   "playground:role",
+   2.485564
+  ],
+  [
+   "corizo-student-management:features",
+   2.408916
+  ],
+  [
+   "corizo-student-management:readme:3",
+   2.408916
+  ],
+  [
+   "earthpulse:undocumented",
+   0.0
+  ],
+  [
+   "corizo-ecommerce:undocumented",
+   0.0
+  ],
+  [
+   "nexa:undocumented",
+   0.0
+  ],
+  [
+   "playground:undocumented",
+   0.0
+  ],
+  [
+   "corizo-student-management:undocumented",
+   0.0
+  ]
+ ],
  "__focus": [
   [
    "earthpulse:features",
-   5.665839
+   5.765268
   ],
   [
    "earthpulse:readme:1",
-   4.504287
+   4.590541
   ],
   [
    "earthpulse:undocumented",

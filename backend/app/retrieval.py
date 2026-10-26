@@ -97,7 +97,8 @@ class BM25Retriever:
 
         # Whenever a project is in play, include its "not yet documented" chunk so the
         # model can say "that isn't documented" with a citation instead of guessing.
-        for pid in {c.project_id for c, _ in top if c.project_id} | ({focus} if focus else set()):
+        # First-seen order (not a set) keeps results deterministic and identical to the website's port.
+        for pid in dict.fromkeys([c.project_id for c, _ in top if c.project_id] + ([focus] if focus else [])):
             gap = self._by_id.get(f"{pid}:undocumented")
             if gap and all(c.id != gap.id for c, _ in top):
                 top.append((gap, 0.0))
