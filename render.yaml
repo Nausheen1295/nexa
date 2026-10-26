@@ -1,0 +1,32 @@
+# Render Blueprint: one click deploys the NEXA API from backend/ (Docker, free plan).
+# Render asks for the values marked `sync: false` when you create the Blueprint;
+# they are stored in Render only and never committed here.
+services:
+  - type: web
+    name: nexa-api
+    runtime: docker
+    plan: free
+    rootDir: backend
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: NEXA_MODEL
+        sync: false
+      - key: NEXA_KNOWLEDGE_URL
+        value: https://nausheen1295.github.io/portfolio/knowledge/portfolio.json
+      - key: NEXA_ALLOWED_ORIGINS
+        value: https://nausheen1295.github.io
+      - key: NEXA_TRUST_PROXY
+        value: "true"
+      - key: NEXA_EFFORT
+        value: low
+      - key: NEXA_MAX_TOKENS
+        value: "2048"
+      - key: NEXA_RATE_LIMIT
+        value: "10"
+      - key: NEXA_RATE_LIMIT_DAY
+        value: "200"

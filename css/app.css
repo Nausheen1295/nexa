@@ -1,0 +1,82 @@
+/* NEXA — app styles (AI Lab violet, NEXUS gradient) */
+:root { --accent: #8b7bff; --accent-rgb: 139, 123, 255; --grad: linear-gradient(120deg, #22d3ee, #8b7bff); }
+:root[data-theme="light"] { --accent: #5b4bd6; --accent-rgb: 91, 75, 214; }
+@media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) { --accent: #5b4bd6; --accent-rgb: 91, 75, 214; } }
+
+body { display: flex; flex-direction: column; }
+.orb-mark { background: var(--grad); }
+.orb {
+  display: block; width: 74px; height: 74px; border-radius: 50%; margin: 0 auto 16px;
+  background: radial-gradient(circle at 35% 30%, rgba(255, 255, 255, .55), transparent 40%), var(--grad);
+  box-shadow: 0 0 40px -6px rgba(var(--accent-rgb), .7);
+  animation: breathe 4s ease-in-out infinite;
+}
+@keyframes breathe { 50% { transform: scale(1.06); box-shadow: 0 0 60px -4px rgba(var(--accent-rgb), .8); } }
+
+.status-pill { display: inline-flex; align-items: center; gap: 7px; font-size: .78rem; color: var(--text-soft); white-space: nowrap; }
+.status-pill i { width: 8px; height: 8px; border-radius: 50%; background: var(--text-mute); }
+.status-pill[data-state="online"] i { background: var(--ok); }
+.status-pill[data-state="offline"] i { background: var(--warn); }
+.status-pill[data-state="checking"] i, .status-pill[data-state="waking"] i { background: var(--warn); animation: pulse 1.2s infinite; }
+@keyframes pulse { 50% { opacity: .3; } }
+
+.chat-wrap { flex: 1; width: 100%; max-width: 820px; margin: 0 auto; padding: 20px 20px 10px; display: flex; flex-direction: column; }
+.welcome { text-align: center; margin: 22px 0 18px; }
+.welcome .lede { margin: 0 auto; }
+.welcome.compact { display: none; }
+
+.controls { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.seg { display: flex; flex-wrap: wrap; gap: 2px; background: var(--surface-2); border-radius: 10px; padding: 3px; }
+.seg button { border: 0; background: none; color: var(--text-soft); font: 600 .82rem var(--font); padding: 6px 11px; border-radius: 7px; cursor: pointer; }
+.seg button[aria-checked="true"] { background: var(--surface); color: var(--text); box-shadow: var(--shadow); }
+.ctx { display: flex; align-items: center; gap: 8px; color: var(--text-mute); }
+.ctx select { width: auto; min-height: 34px; padding: 4px 10px; max-width: 230px; }
+.mode-hint { margin: 6px 2px 10px; min-height: 1.2em; }
+
+.thread { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px; }
+.msg { display: flex; gap: 10px; align-items: flex-start; }
+.msg.user { justify-content: flex-end; }
+.msg .bubble { max-width: 86%; padding: 11px 14px; border-radius: 14px; line-height: 1.6; }
+.msg.user .bubble { background: rgba(var(--accent-rgb), .16); border-bottom-right-radius: 4px; }
+.msg.nexa .bubble { background: var(--surface); border: 1px solid var(--line); border-bottom-left-radius: 4px; box-shadow: var(--shadow); }
+.msg.nexa .avatar { flex: none; width: 28px; height: 28px; border-radius: 50%; background: var(--grad); margin-top: 4px; }
+.bubble p { margin: 0 0 .6em; }
+.bubble p:last-child { margin-bottom: 0; }
+.bubble ul { margin: 0 0 .6em; padding-left: 18px; }
+.kind { display: inline-flex; align-items: center; gap: 6px; font: 500 .7rem var(--font-mono); letter-spacing: .05em; text-transform: uppercase; color: var(--text-mute); margin-bottom: 6px; }
+.kind.ai { color: var(--accent); }
+.passage { border-left: 2px solid var(--line-strong); padding-left: 10px; margin: 8px 0; }
+.passage h3 { font-size: .86rem; margin: 0 0 2px; }
+.passage h3 a { color: var(--text); text-decoration: none; }
+.passage h3 a:hover { color: var(--accent); }
+.passage p { color: var(--text-soft); font-size: .9rem; margin: 0; }
+.gap { margin-top: 8px; font-size: .86rem; color: var(--text-soft); padding: 8px 10px; background: var(--surface-2); border-radius: 8px; }
+.sources { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.sources a { font-size: .76rem; padding: 3px 9px; border-radius: 999px; border: 1px solid var(--line-strong); color: var(--text-soft); text-decoration: none; }
+.sources a:hover { border-color: var(--accent); color: var(--text); }
+.typing span { display: inline-block; width: 7px; height: 7px; margin-right: 4px; border-radius: 50%; background: var(--text-mute); animation: bounce 1.2s infinite; }
+.typing span:nth-child(2) { animation-delay: .15s; }
+.typing span:nth-child(3) { animation-delay: .3s; }
+@keyframes bounce { 30% { transform: translateY(-4px); opacity: .5; } }
+
+.suggestions { margin: 14px 0 10px; }
+.suggestions .chip { font-size: .82rem; }
+.composer {
+  position: sticky; bottom: 10px; display: flex; gap: 8px; align-items: flex-end; margin-top: auto;
+  padding: 8px; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 16px; box-shadow: var(--shadow);
+}
+.composer textarea { border: 0; background: none; resize: none; max-height: 160px; min-height: 40px; padding: 9px 8px; font-size: .98rem; }
+.composer textarea:focus { outline: none; }
+.composer:focus-within { border-color: var(--accent); }
+.send { width: 42px; height: 42px; padding: 0; border-radius: 12px; flex: none; }
+.fine { display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 8px 4px 0; }
+.linkish { background: none; border: 0; color: var(--text-soft); font: inherit; cursor: pointer; text-decoration: underline; padding: 0; }
+
+@media (max-width: 600px) {
+  .chat-wrap { padding: 12px 16px 8px; }
+  .msg .bubble { max-width: 92%; }
+  .controls { flex-direction: column; align-items: stretch; }
+  .seg button { flex: 1; padding: 6px 6px; }
+  .ctx select { max-width: none; flex: 1; }
+  .bar .home, .status-pill span { display: none; }
+}

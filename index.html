@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NEXA — Portfolio Assistant</title>
+  <meta name="description" content="Ask NEXA about Nausheen Haleelur Rahman's projects, skills and experience. Answers come only from her documented work, with sources." />
+  <meta name="theme-color" content="#07080d" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%2322d3ee'/%3E%3Cstop offset='1' stop-color='%238b7bff'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='12' cy='12' r='10' fill='url(%23g)'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/app.css" />
+  <script>
+    try { const t = localStorage.getItem("nexus-theme"); if (t) document.documentElement.dataset.theme = t; } catch {}
+  </script>
+</head>
+<body>
+  <header class="bar">
+    <a class="brand" href="./">
+      <span class="brand-mark orb-mark" aria-hidden="true"></span>
+      NEXA <small>AI LAB</small>
+    </a>
+    <span class="bar-spacer"></span>
+    <span class="status-pill" id="status" data-state="checking" role="status"><i></i><span>Checking…</span></span>
+    <button class="btn btn-ghost btn-icon" id="themeToggle" type="button" aria-label="Switch theme"></button>
+    <a class="home" href="https://nausheen1295.github.io/portfolio/">Portfolio ↗</a>
+  </header>
+
+  <main class="chat-wrap">
+    <section class="welcome" id="welcome">
+      <span class="orb" aria-hidden="true"></span>
+      <h1>Hi, I'm NEXA.</h1>
+      <p class="lede">Ask me anything about Nausheen Haleelur Rahman's projects, skills and experience. I answer <b>only</b> from her documented work, show my sources, and tell you when something isn't documented, rather than guessing.</p>
+    </section>
+
+    <div class="controls">
+      <div class="seg" role="radiogroup" aria-label="Answer style" id="modes"></div>
+      <label class="ctx small">Focus
+        <select id="project"><option value="">All projects</option></select>
+      </label>
+    </div>
+    <p class="mode-hint small muted" id="modeHint" aria-live="polite"></p>
+
+    <ol class="thread" id="thread" aria-live="polite" aria-label="Conversation"></ol>
+    <div class="chips suggestions" id="suggestions" aria-label="Suggested questions"></div>
+
+    <form class="composer" id="composer">
+      <label class="sr-only" for="question">Your question</label>
+      <textarea id="question" rows="1" maxlength="500" placeholder="Ask about a project, a skill or her experience…" autocomplete="off"></textarea>
+      <button class="btn btn-primary send" type="submit" aria-label="Send">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </button>
+    </form>
+    <p class="small muted fine">
+      <span id="modeNote">Documentation search: answers are passages from the portfolio's project documentation.</span>
+      <button class="linkish" type="button" id="clearBtn">Clear chat</button>
+    </p>
+  </main>
+
+  <footer class="foot">
+    NEXA is the AI Lab project in <a href="https://nausheen1295.github.io/portfolio/">NEXUS</a>, the portfolio of Nausheen Haleelur Rahman ·
+    <a href="https://github.com/Nausheen1295/nexa">Source &amp; API</a>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

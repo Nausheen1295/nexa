@@ -1,0 +1,1419 @@
+{
+  "version": 1,
+  "site": "https://nausheen1295.github.io/portfolio/",
+  "generatedFrom": [
+    "js/data/projects.js",
+    "js/data/profile.js",
+    "GitHub READMEs"
+  ],
+  "chunks": [
+    {
+      "projectId": null,
+      "id": "profile:about",
+      "title": "About Nausheen Haleelur Rahman",
+      "section": "about",
+      "url": "https://nausheen1295.github.io/portfolio/#about",
+      "text": "Nausheen Haleelur Rahman — AI & Software Developer.\nBuilding intelligent, secure, and user-centered software experiences.\nBased in Dubai, United Arab Emirates. Status: Open to opportunities.\nSpoken languages: English, Tamil, Hindi, Urdu."
+    },
+    {
+      "projectId": null,
+      "id": "profile:education",
+      "title": "Education",
+      "section": "about",
+      "url": "https://nausheen1295.github.io/portfolio/#about",
+      "text": "BSc (Hons) Computer Science, University of West London (UWL) (Oct 2023 – May 2026). Software Engineering, AI & Automation, Databases, Computer Networks, App Development, UI/UX Design.\nHigher Secondary — Science, The Central School (2023). Graduated with 87%."
+    },
+    {
+      "projectId": null,
+      "id": "profile:experience",
+      "title": "Experience",
+      "section": "about",
+      "url": "https://nausheen1295.github.io/portfolio/#about",
+      "text": "Web Development Trainee & Intern at Corizo (with IIT Bombay's Mood Indigo) (Sep 2026 – present). Certified training in web development (5 Sep – 5 Oct 2026), then the internship phase: built and deployed a Student Management CRUD app (minor project) and a full-stack e-commerce store (major project, ongoing).\nMachine Learning Trainee & Intern at Corizo (with IIT Bombay's Mood Indigo) (Sep 2026 – present). Certified training in machine learning (5 Sep – 5 Oct 2026), then the internship phase: completed a Stock Price Prediction minor project comparing Ridge Regression, Random Forest and LSTM models.\nRotational Intern at Medulla (2025). Rotated across Technical, Database, and CSR & Marketing functions — IT support, data management, and collaborating with multidisciplinary teams."
+    },
+    {
+      "projectId": null,
+      "id": "profile:skills",
+      "title": "Skills",
+      "section": "skills",
+      "url": "https://nausheen1295.github.io/portfolio/#skills",
+      "text": "AI & Machine Learning: Machine learning (scikit-learn), Deep learning (LSTM, Keras), AI Agents, Workflow Automation, Prompt Engineering, AI threat detection. Evidence: Stock Price Prediction, SecureVault AI, NEXA.\nSoftware Development: Python, Java, JavaScript, TypeScript, REST APIs, Android Studio. Evidence: SecureVault AI, NR Playfair Cipher, NEXUS Playground.\nWeb Development: Node.js, Express.js, REST APIs, Bootstrap, React, Vite, HTML, CSS, Canvas, Responsive design. Evidence: Tech World E-Commerce, Student Management App, SecureVault AI, NEXUS Playground.\nCybersecurity: AES-256-GCM, PBKDF2, WebAuthn, Cryptography, Packet analysis (Scapy), Phishing awareness. Evidence: SecureVault AI, NR Playfair Cipher, Packet Sniffer.\nDatabases & Data: MongoDB Atlas, Mongoose, Oracle SQL, Database design, Data analysis, pandas, Jupyter. Evidence: Tech World E-Commerce, Stock Price Prediction, NorthStar Mobility Analysis.\nUI / UX: Figma, Wireframing, Prototyping, User-centered design. Evidence: SecureVault AI.\nCloud & Deployment: Render, Vercel, GitHub Pages, Ethereum testnet (Sepolia). Evidence: Tech World E-Commerce, SecureVault AI.\nDeveloper Tools: Git & GitHub, VS Code, Linux, Cisco Packet Tracer."
+    },
+    {
+      "projectId": null,
+      "id": "profile:certifications",
+      "title": "Certifications",
+      "section": "certifications",
+      "url": "https://nausheen1295.github.io/portfolio/#certifications",
+      "text": "Certifications (8, from the certificates themselves):\n- Web Development Training — Corizo × Mood Indigo, 5 Sep – 5 Oct 2026. Topics: Web development. Credential ID: CRZ109428.\n- Machine Learning Training — Corizo × Mood Indigo, 5 Sep – 5 Oct 2026. Topics: Machine learning. Credential ID: CRZ110134.\n- Programming Foundations: Software Testing/QA — LinkedIn Learning, 8 Feb 2026 · 1 h 55 min. Topics: Software Testing, Programming Foundations, Software Quality Assurance. Credential ID: 3d102f4d483ba748a185e19e6db2cafaf4609857da2187330c8ecc5390beff1a.\n- Cybersecurity Job Simulation — Forage × Mastercard, 13 Jan 2026. Topics: Cybersecurity, Phishing simulation. Covered: Design a phishing email simulation; Interpret phishing simulation results. Credential ID: fusLSynHaAsNxaXH2.\n- AI Tools Workshop — be10x, 2 Jan 2026. Topics: AI tools, ChatGPT. Covered: Create presentations using AI in under 5 min; Analyse data using AI in under 30 min; Code and debug using AI in under 10 min.\n- Artificial Intelligence Foundations: Machine Learning — LinkedIn Learning, 12 Sep 2025 · 1 h 50 min. Topics: Machine Learning, Artificial Intelligence (AI). Credential ID: dfacedb42f87fb7b91f2935d7383bdd1615f1a0f89de7df7c519bfd3dea44b1e.\n- Learning Python — LinkedIn Learning, 16 Aug 2025 · 3 h 41 min. Topics: Python (Programming Language). Credential ID: 12549f59f7c4f1730141a43a2f917e7ddcc65e88a2391726284c874dcc12ad7f.\n- Digital Learning Training — Power Eagles, Jun 2025. Topics: Digital learning, Business concepts. Covered: Certificate of Achievement — completed as Top Earner of the company."
+    },
+    {
+      "projectId": null,
+      "id": "profile:products",
+      "title": "Products I sell (future enhancement)",
+      "section": "store",
+      "url": "https://nausheen1295.github.io/portfolio/#store",
+      "text": "Products I sell is a FUTURE ENHANCEMENT. Nothing is on sale yet and no prices exist. Visitors can register interest (\"Notify me\"). Planned products:\n- Figma UI Kit (planned): A clean, reusable UI component kit to design beautiful apps faster.\n- AI Prompt Pack (planned): Ready-to-use prompts and automation templates for everyday productivity.\n- App Starter Template (planned): An Android app starter with clean architecture to kickstart your build.\n- Resume & Portfolio Template (planned): A modern, ATS-friendly résumé plus a portfolio template."
+    },
+    {
+      "projectId": null,
+      "id": "profile:contact",
+      "title": "Contact",
+      "section": "contact",
+      "url": "https://nausheen1295.github.io/portfolio/#contact",
+      "text": "Email: naus2005official@gmail.com. GitHub: https://github.com/Nausheen1295. LinkedIn: https://www.linkedin.com/in/nausheen-haleelur-rahman-45a55a234/. Résumé: https://nausheen1295.github.io/portfolio/resume.pdf."
+    },
+    {
+      "projectId": null,
+      "id": "nexus:labs",
+      "title": "NEXUS research labs",
+      "section": "universe",
+      "url": "https://nausheen1295.github.io/portfolio/#universe",
+      "text": "LAB-01 Security Lab: Encryption, threat detection and privacy-first software. Projects: SecureVault AI (Live), NR Playfair Cipher (Completed), Packet Sniffer (Completed).\nLAB-02 AI Lab: Assistants and agents grounded in real knowledge. Projects: Stock Price Prediction (Completed), NEXA (Live).\nLAB-03 Knowledge Lab: Tools for thinking, remembering and connecting ideas. Projects: MindScape AI (Live).\nLAB-04 Data Lab: Turning raw data into decisions and clear visuals. Projects: InsightForge (Live), NorthStar Mobility Analysis (Completed).\nLAB-05 Earth Lab: Climate and geospatial intelligence from live data. Projects: EarthPulse (Live).\nLAB-06 Bio Lab: Computer vision for the living world. Projects: FloraMind AI (Live).\nLAB-07 Experimental Lab: Games, mini-apps and ideas that don't fit anywhere else — yet. Projects: NEXUS Playground (Experimental).\nLAB-08 Web Lab: Full-stack web applications — from REST APIs to deployed products. Projects: Tech World E-Commerce (In development), Student Management App (Completed)."
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:overview",
+      "title": "SecureVault AI — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nNext-gen cloud security platform. File encryption meets AI-powered threat detection — AES-256-GCM encryption that runs locally, an AI threat scanner, biometric login, a blockchain key vault and zero-knowledge sharing.\nSource code: https://github.com/Nausheen1295/securevault-ai\nLive demo: https://securevaultai-brown.vercel.app"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:problem-solution",
+      "title": "SecureVault AI — problem & solution",
+      "section": "problem",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai#solution",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nSolution: Encrypt files on the user's own device so they never leave it, and pair that with automated threat scanning, passwordless biometric login and auditable key storage."
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:features",
+      "title": "SecureVault AI — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai#features",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nFeatures:\n- AES-256-GCM file encryption with PBKDF2 key derivation (310k iterations)\n- Random salt & IV per file; batch file processing; 100% local — files never leave your device\n- AI threat scanner: Shannon entropy analysis, file-signature matching, confidence scoring\n- VirusTotal API integration\n- Biometric authentication via WebAuthn (fingerprint / platform authenticators) — zero biometric data stored\n- Blockchain key vault on the Ethereum Sepolia testnet with MetaMask, immutable audit trail and key revocation\n- Zero-knowledge sharing: password never in the share URL, expiring links, max view count, one-click revocation, checksum verification\n- Security analytics: real-time security score, threat history charts, event audit log, risk dashboard"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:stack",
+      "title": "SecureVault AI — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai#stack",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nTechnologies used: React 18, Vite 5, JavaScript, AES-256-GCM, PBKDF2, WebAuthn, Ethereum (Sepolia), MetaMask, VirusTotal API, Vercel."
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:ai",
+      "title": "SecureVault AI — AI components",
+      "section": "ai",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai#ai",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nAI / ML components:\n- Threat scanning using Shannon entropy analysis and file-signature matching\n- Confidence scoring for detected threats"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:security",
+      "title": "SecureVault AI — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai#security",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nSecurity:\n- AES-256-GCM authenticated encryption\n- PBKDF2 key derivation, 310,000 iterations\n- Unique random salt and IV per file\n- Client-side processing — plaintext files never uploaded\n- WebAuthn biometrics with no biometric data stored\n- Share links never contain the password; expiry, view limits and revocation"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:architecture",
+      "title": "SecureVault AI — architecture",
+      "section": "architecture",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai#architecture",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nArchitecture components:\n- User (client): Signs in with a password or a WebAuthn platform authenticator (fingerprint / face). No biometric data is stored by the app.\n- React + Vite app (frontend): Single-page app built with React 18 and Vite 5, deployed on Vercel. Hosts the dashboard, scanner, vault and sharing UI.\n- Encryption engine (ai): AES-256-GCM with keys derived through PBKDF2 (310k iterations) and a random salt + IV per file. Runs locally, so files never leave the device.\n- AI threat scanner (ai): Analyses files with Shannon entropy and signature matching, produces a confidence score, and can cross-check with the VirusTotal API.\n- Serverless API (api): The repository contains an api/ directory alongside the Vercel config. Its exact responsibilities are not documented yet.\n- Blockchain key vault (data): Key records are stored on the Ethereum Sepolia testnet through MetaMask, giving an immutable audit trail with support for key revocation.\n- VirusTotal (external): External threat-intelligence service used by the scanner for additional verification.\nData flow: user → frontend; frontend → crypto; frontend → scanner; frontend → api; scanner → virustotal; frontend → chain."
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:timeline",
+      "title": "SecureVault AI — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai#timeline",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nDocumented development stages:\n- Development (2026-05): Repository created on GitHub — May 2026.\n- Deployment: Deployed on Vercel with a public live demo."
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:undocumented",
+      "title": "SecureVault AI — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=securevault-ai",
+      "text": "Project: SecureVault AI (Security Lab). Status: Live — Shipped and publicly available.\nNOT YET DOCUMENTED for SecureVault AI: the problem it solves; Nausheen's role; database choice; technical challenges; engineering decisions / why choices were made; results or metrics. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:overview",
+      "title": "Tech World E-Commerce — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-ecommerce",
+      "text": "Project: Tech World E-Commerce (Web Lab). Status: In development — Actively being built — not yet released. The project works and is live, but is still being extended.\nFull-stack electronics store — Corizo web development major project. A full-stack e-commerce website for electronics. Customers browse products, manage a cart and place cash-on-delivery orders; administrators manage products, stock, orders and customers from a dashboard.\nSource code: https://github.com/Nausheen1295/corizo-ecommerce-website\nLive demo: https://corizo-store.onrender.com"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:features",
+      "title": "Tech World E-Commerce — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-ecommerce#features",
+      "text": "Project: Tech World E-Commerce (Web Lab). Status: In development — Actively being built — not yet released. The project works and is live, but is still being extended.\nFeatures:\n- Product catalogue with live search, category filters and sort options\n- Customer accounts: register, log in and log out securely\n- Shopping cart with quantity changes, stock availability and live totals\n- Checkout with a shipping address and cash-on-delivery orders\n- Order history with order and payment status\n- Admin dashboard: active products, total orders, orders to process and revenue\n- Admins add, edit, hide and restore products, and upload product images\n- Order status workflow (Pending → Confirmed → Shipped → Delivered, or Cancelled); stock returns automatically on cancellation\n- Role-based access control for customer and admin accounts"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:stack",
+      "title": "Tech World E-Commerce — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-ecommerce#stack",
+      "text": "Project: Tech World E-Commerce (Web Lab). Status: In development — Actively being built — not yet released. The project works and is live, but is still being extended.\nTechnologies used: HTML5, CSS3, JavaScript, Bootstrap 5, Node.js, Express.js, MongoDB Atlas, Mongoose, express-session, connect-mongo, bcryptjs, Cloudinary, Multer, Render."
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:security",
+      "title": "Tech World E-Commerce — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-ecommerce#security",
+      "text": "Project: Tech World E-Commerce (Web Lab). Status: In development — Actively being built — not yet released. The project works and is live, but is still being extended.\nSecurity:\n- Passwords hashed with bcrypt, never stored in plain text\n- Login sessions stored in the database with secure, HTTP-only cookies\n- Admin pages and actions protected on the server\n- Prices and stock always checked on the server, never trusted from the browser"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:architecture",
+      "title": "Tech World E-Commerce — architecture",
+      "section": "architecture",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-ecommerce#architecture",
+      "text": "Project: Tech World E-Commerce (Web Lab). Status: In development — Actively being built — not yet released. The project works and is live, but is still being extended.\nArchitecture components:\n- Customer / Admin (client): Customers shop from the catalogue, cart and checkout pages; administrators use the dashboard to manage products, orders and customers.\n- Bootstrap web pages (frontend): Responsive HTML, CSS and JavaScript pages built with Bootstrap 5: home catalogue, register/log in, cart, checkout, my orders and the admin dashboard.\n- Express.js API (api): Node.js + Express server with routes for auth, products, cart, orders and uploads. Middleware checks login and admin access on the server.\n- Sessions & auth (api): express-session with connect-mongo stores login sessions in the database using secure, HTTP-only cookies; passwords are hashed with bcrypt.\n- MongoDB Atlas (data): Mongoose models for Users, Products and Orders. Prices and stock are validated on the server before any order is saved.\n- Cloudinary (external): Product images uploaded from the admin dashboard (via Multer) are stored on Cloudinary.\nData flow: browser → frontend; frontend → api; api → sessions; api → db; sessions → db; api → images."
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:database",
+      "title": "Tech World E-Commerce — database",
+      "section": "database",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-ecommerce#database",
+      "text": "Project: Tech World E-Commerce (Web Lab). Status: In development — Actively being built — not yet released. The project works and is live, but is still being extended.\nDatabase: MongoDB Atlas via Mongoose, with User, Product and Order models; sessions stored in MongoDB (connect-mongo)."
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:timeline",
+      "title": "Tech World E-Commerce — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-ecommerce#timeline",
+      "text": "Project: Tech World E-Commerce (Web Lab). Status: In development — Actively being built — not yet released. The project works and is live, but is still being extended.\nDocumented development stages:\n- Development (2026-10): Built during the Corizo Web Development internship as the major project; work is ongoing.\n- Testing: Automated end-to-end test of the full shopping flow (Node.js).\n- Deployment: Deployed on Render (free plan — the first load can take up to a minute while the server wakes)."
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:undocumented",
+      "title": "Tech World E-Commerce — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-ecommerce",
+      "text": "Project: Tech World E-Commerce (Web Lab). Status: In development — Actively being built — not yet released. The project works and is live, but is still being extended.\nNOT YET DOCUMENTED for Tech World E-Commerce: the problem it solves; Nausheen's role; technical challenges; engineering decisions / why choices were made; results or metrics. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:overview",
+      "title": "Student Management App — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-student-management",
+      "text": "Project: Student Management App (Web Lab). Status: Completed — Finished project with public source code.\nFull-stack CRUD application — Corizo web development minor project. A responsive full-stack student management application with a REST API for creating, viewing, updating, deleting and searching student records, backed by MongoDB Atlas and deployed on Render.\nSource code: https://github.com/Nausheen1295/Corizo-CRUD-Application\nLive demo: https://corizo-student-management.onrender.com/"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:features",
+      "title": "Student Management App — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-student-management#features",
+      "text": "Project: Student Management App (Web Lab). Status: Completed — Finished project with public source code.\nFeatures:\n- Create, view, update and delete student records (delete asks for confirmation)\n- Search by student name, email, phone number or course\n- Required-field validation and duplicate-email prevention\n- Records stored in MongoDB Atlas\n- Responsive interface built with Bootstrap\n- REST API built with Express.js: GET/POST/PUT/DELETE /api/students, plus a status check"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:stack",
+      "title": "Student Management App — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-student-management#stack",
+      "text": "Project: Student Management App (Web Lab). Status: Completed — Finished project with public source code.\nTechnologies used: HTML5, CSS3, JavaScript, Bootstrap 5, Node.js, Express.js, MongoDB Atlas, Mongoose, Render."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:security",
+      "title": "Student Management App — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-student-management#security",
+      "text": "Project: Student Management App (Web Lab). Status: Completed — Finished project with public source code.\nSecurity:\n- Database credentials kept in environment variables; the .env file is never committed"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:architecture",
+      "title": "Student Management App — architecture",
+      "section": "architecture",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-student-management#architecture",
+      "text": "Project: Student Management App (Web Lab). Status: Completed — Finished project with public source code.\nArchitecture components:\n- User (client): Manages student records from a single dashboard: add, edit, delete and search.\n- Bootstrap dashboard (frontend): HTML, CSS and JavaScript front end (Bootstrap 5) that calls the API with the Fetch API.\n- Express REST API (api): Node.js + Express routes: GET /api/students (with ?search=), GET/PUT/DELETE /api/students/:id, POST /api/students, GET /api/test.\n- MongoDB Atlas (data): Student records stored through a Mongoose model, with validation and unique email addresses.\nData flow: browser → frontend; frontend → api; api → db."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:database",
+      "title": "Student Management App — database",
+      "section": "database",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-student-management#database",
+      "text": "Project: Student Management App (Web Lab). Status: Completed — Finished project with public source code.\nDatabase: MongoDB Atlas via Mongoose (Student model)."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:timeline",
+      "title": "Student Management App — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-student-management#timeline",
+      "text": "Project: Student Management App (Web Lab). Status: Completed — Finished project with public source code.\nDocumented development stages:\n- Development (2026-10): Built during the Corizo Web Development internship as the individual minor project.\n- Deployment: Deployed on Render."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:undocumented",
+      "title": "Student Management App — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=corizo-student-management",
+      "text": "Project: Student Management App (Web Lab). Status: Completed — Finished project with public source code.\nNOT YET DOCUMENTED for Student Management App: the problem it solves; Nausheen's role; technical challenges; engineering decisions / why choices were made; results or metrics. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:overview",
+      "title": "Stock Price Prediction — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nML & deep learning for next-day forecasting — Corizo machine learning minor project. Forecasts Apple (AAPL) next-day closing prices with Ridge Regression, Random Forest and an LSTM network, and tests honestly whether the forecasts beat simple baselines.\nSource code: https://github.com/Nausheen1295/portfolio/tree/main/projects/stock-price-prediction"
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:problem-solution",
+      "title": "Stock Price Prediction — problem & solution",
+      "section": "problem",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction#problem",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nProblem: Investors want to know where the market is heading, but forecasting stock prices is notoriously hard.\nSolution: Predict the next-day return from engineered price features, compare against naive and drift baselines, and check statistical significance and a simple trading simulation before trusting any model."
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:features",
+      "title": "Stock Price Prediction — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction#features",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nFeatures:\n- Exploratory analysis: trends, return distribution, volatility, correlations and autocorrelation\n- 20 engineered features: lagged returns, moving-average gaps, momentum, volatility, RSI and S&P 500 returns\n- Chronological split: train 70% (2007–2013), validation 15%, test 15% (Oct 2014 – Feb 2016)\n- Models: Naive and Drift baselines, Ridge Regression, Random Forest and an LSTM (Keras)\n- Metrics: RMSE, MAE, MAPE, R², directional accuracy, a binomial significance test and a trading simulation"
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:stack",
+      "title": "Stock Price Prediction — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction#stack",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nTechnologies used: Python, pandas, NumPy, scikit-learn, TensorFlow / Keras, SciPy, Matplotlib, seaborn, Jupyter."
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:ai",
+      "title": "Stock Price Prediction — AI components",
+      "section": "ai",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction#ai",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nAI / ML components:\n- Supervised regression: Ridge Regression and Random Forest Regressor\n- Deep learning: LSTM (Long Short-Term Memory) neural network\n- Hyper-parameter tuning on a held-out validation set"
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:decisions",
+      "title": "Stock Price Prediction — engineering decisions",
+      "section": "decisions",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction#decisions",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nEngineering decisions:\n- Predict next-day return rather than price, then convert back: price = today's close × (1 + predicted return)\n- Split the data chronologically (no shuffling) so the test set is genuinely in the future"
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:database",
+      "title": "Stock Price Prediction — database",
+      "section": "database",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction#database",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nDatabase: Public Yahoo Finance daily adjusted closing prices, 3 Jan 2007 – 1 Mar 2016 (2,306 trading days) for AAPL, MSFT, IBM, SBUX and the S&P 500."
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:results",
+      "title": "Stock Price Prediction — results",
+      "section": "results",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction#results",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nResults: On the 339-day test set no model beat the naive baseline on RMSE (naive 1.903 vs Random Forest 1.911, LSTM 1.923). Random Forest predicted direction best at 53.4%, but this is not statistically significant (p ≈ 0.12) — consistent with the Efficient Market Hypothesis. Educational project only, not financial advice."
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:timeline",
+      "title": "Stock Price Prediction — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction#timeline",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nDocumented development stages:\n- Development (2026-10): Completed as the Corizo Machine Learning minor project.\n- Testing: Evaluated on a 339-day test set against naive and drift baselines, with a significance test."
+    },
+    {
+      "projectId": "stock-price-prediction",
+      "id": "stock-price-prediction:undocumented",
+      "title": "Stock Price Prediction — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=stock-price-prediction",
+      "text": "Project: Stock Price Prediction (AI Lab). Status: Completed — Finished project with public source code.\nNOT YET DOCUMENTED for Stock Price Prediction: Nausheen's role; technical challenges. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:overview",
+      "title": "NEXA — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nAI portfolio assistant & digital twin. An assistant that answers questions about Nausheen's projects using retrieval over real project documentation, with recruiter, developer, simple, architecture and interview modes. It never invents facts: the website works now as a grounded documentation search, and AI answers switch on once the API is hosted.\nSource code: https://github.com/Nausheen1295/nexa\nLive demo: https://nausheen1295.github.io/nexa/"
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:problem-solution",
+      "title": "NEXA — problem & solution",
+      "section": "problem",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#problem",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nProblem: Portfolios are static: visitors can't ask follow-up questions about how or why something was built.\nSolution: Retrieval-augmented generation over READMEs, architecture notes and project data, answering only from retrieved documents and citing them. When nothing relevant is found, NEXA says so without calling the model."
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:features",
+      "title": "NEXA — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#features",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nFeatures:\n- Five answer modes: Recruiter, Developer, Simple, Architecture and Interview\n- Answers grounded in the portfolio's knowledge base, with sources verified server-side\n- Says when something isn't documented instead of guessing\n- Focus on a single project, with follow-up context from the last few turns\n- Documentation-search mode that uses the same BM25 ranking as the API when the AI backend is offline"
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:stack",
+      "title": "NEXA — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#stack",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nTechnologies used: Python, FastAPI, BM25 retrieval, LLM API, Pydantic, Docker, Render, JavaScript, pytest."
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:ai",
+      "title": "NEXA — AI components",
+      "section": "ai",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#ai",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nAI / ML components:\n- Retrieval-augmented generation\n- Mode-conditioned answers\n- Structured output with citation checks"
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:security",
+      "title": "NEXA — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#security",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nSecurity:\n- API key kept server-side only (host environment variables); nothing secret in the website\n- CORS allow-list, strict input validation, a 32 KB body cap and per-visitor rate limits\n- Retrieved documents and questions treated as data, never as instructions\n- Logs record counts and latency, never question text"
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:architecture",
+      "title": "NEXA — architecture",
+      "section": "architecture",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#architecture",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nArchitecture components:\n- NEXA website (frontend): Static chat site on GitHub Pages (and the NEXA panel in this portfolio). Talks only to the NEXA API; falls back to in-browser BM25 documentation search.\n- NEXA API (api): FastAPI service in Docker on Render. Validates input, enforces CORS and rate limits, and exposes /health and /chat.\n- Retrieval (ai): BM25 with title boosting, synonym expansion and project focus. Always adds a project's 'not yet documented' note so gaps can be cited.\n- Knowledge base (data): Chunks generated from projects.js, profile.js and each project's GitHub README, published by the portfolio and loaded at startup.\n- LLM (external): Writes the answer from the retrieved chunks only, returning JSON with the ids it cited; the API keeps only ids it actually retrieved.\nData flow: ui → api; api → rag; rag → kb; rag → llm."
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:challenges",
+      "title": "NEXA — challenges",
+      "section": "challenges",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#challenges",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nChallenges:\n- Keeping the website's offline search identical to the API's ranking: the BM25 retriever was ported line-for-line from Python to JavaScript\n- Free hosting sleeps when idle, so the site waits up to 70 seconds for the API to wake and answers from documentation meanwhile\n- Host health checks would fail before an API key is set, so liveness (/healthz) and readiness (/health) are separate endpoints"
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:decisions",
+      "title": "NEXA — engineering decisions",
+      "section": "decisions",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#decisions",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nEngineering decisions:\n- Short-circuit with an honest 'not documented' reply when retrieval finds nothing, without calling the model\n- Only cite documents that were actually retrieved, so the model can't invent a source\n- Publish the knowledge base from the portfolio so the API and website always read the same facts"
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:database",
+      "title": "NEXA — database",
+      "section": "database",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#database",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nDatabase: No database: a JSON knowledge base exported from the portfolio's project data and READMEs, published at /knowledge/portfolio.json."
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:timeline",
+      "title": "NEXA — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa#timeline",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nDocumented development stages:\n- Idea: Concept defined: purpose, modes and a RAG architecture.\n- Development (2026-10): API (FastAPI, BM25, grounded generation with citation checks) and standalone website built.\n- Testing: 37 backend tests (API contract, safety, retrieval quality) run without network or API key; browser checks of the website.\n- Deployment: Website live on GitHub Pages. The API ships with a Render blueprint and answers with AI once it is hosted with an API key."
+    },
+    {
+      "projectId": "nexa",
+      "id": "nexa:undocumented",
+      "title": "NEXA — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=nexa",
+      "text": "Project: NEXA (AI Lab). Status: Live — Shipped and publicly available.\nNOT YET DOCUMENTED for NEXA: Nausheen's role; results or metrics. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:overview",
+      "title": "MindScape AI — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nAI-powered second brain. A private knowledge-management app: write Markdown notes, and an on-device AI model links related ideas, maps them as a graph and answers questions with passages from your own notes.\nSource code: https://github.com/Nausheen1295/mindscape-ai\nLive demo: https://nausheen1295.github.io/mindscape-ai/"
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:problem-solution",
+      "title": "MindScape AI — problem & solution",
+      "section": "problem",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#problem",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nProblem: Notes pile up in folders, and the connections between ideas get lost unless you remember to link them yourself.\nSolution: Turn every note into a sentence embedding on the device, then use similarity to suggest related notes, power search by meaning, draw a knowledge graph and find the passages that answer a question."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:features",
+      "title": "MindScape AI — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#features",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nFeatures:\n- Markdown notes with live preview, #tags, [[wiki links]] and backlinks; autosave\n- Related-by-meaning panel with one-click linking\n- Semantic search that blends meaning and keywords\n- Interactive force-directed knowledge graph with an adjustable similarity threshold\n- Ask your notes: extractive answers with their source notes\n- JSON export/import, Markdown download, sample notebook"
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:stack",
+      "title": "MindScape AI — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#stack",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nTechnologies used: JavaScript, Transformers.js, all-MiniLM-L6-v2, Web Workers, IndexedDB, D3, marked, DOMPurify."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:ai",
+      "title": "MindScape AI — AI components",
+      "section": "ai",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#ai",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nAI / ML components:\n- Sentence embeddings (all-MiniLM-L6-v2, 384 dimensions) computed on-device\n- Semantic search and related-note linking by cosine similarity\n- Extractive question answering over note passages\n- TF-IDF keyword fallback while the model loads"
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:security",
+      "title": "MindScape AI — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#security",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nSecurity:\n- Notes and embeddings stay in the browser (IndexedDB); nothing is sent to a server\n- Rendered Markdown is sanitised with DOMPurify"
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:architecture",
+      "title": "MindScape AI — architecture",
+      "section": "architecture",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#architecture",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nArchitecture components:\n- Notes app (frontend): Editor, note list, connections panel, graph and Ask views. Static site on GitHub Pages.\n- Embedding worker (ai): Web Worker running all-MiniLM-L6-v2 with Transformers.js, so typing never stutters.\n- Similarity engine (ai): Cosine similarity for related notes, search and graph links; TF-IDF fallback; passage chunking for Ask.\n- IndexedDB (data): Notes and cached embeddings, stored only in this browser.\n- Model files (external): The ~23 MB model downloads once from Hugging Face and is cached by the browser.\nData flow: ui → worker; worker → hub; ui → sim; ui → db; sim → db."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:challenges",
+      "title": "MindScape AI — challenges",
+      "section": "challenges",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#challenges",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nChallenges:\n- A new note waited for its database write before opening, so fast typing was overwritten; it now opens first and saves in the background\n- Embedding similarity and TF-IDF overlap run in different ranges, so thresholds are tuned per engine\n- The model is ~23 MB, so it loads in a Web Worker while the app works in keyword mode"
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:decisions",
+      "title": "MindScape AI — engineering decisions",
+      "section": "decisions",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#decisions",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nEngineering decisions:\n- Extractive answers only: no generative model, so it can't invent facts about your notes\n- Each note keeps at most its strongest few semantic partners, so a general note can't link to everything"
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:database",
+      "title": "MindScape AI — database",
+      "section": "database",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#database",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nDatabase: IndexedDB in the browser: notes, plus an embedding cache keyed by a hash of each note's text."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:timeline",
+      "title": "MindScape AI — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai#timeline",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nDocumented development stages:\n- Idea: Concept defined: note capture, automatic linking and semantic search.\n- Development (2026-10): Built and published as a standalone app.\n- Testing: Unit tests for parsing, TF-IDF, similarity and chunking; browser checks of the AI model, search, graph, Ask and persistence.\n- Deployment: Deployed on GitHub Pages."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:undocumented",
+      "title": "MindScape AI — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=mindscape-ai",
+      "text": "Project: MindScape AI (Knowledge Lab). Status: Live — Shipped and publicly available.\nNOT YET DOCUMENTED for MindScape AI: Nausheen's role; results or metrics. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:overview",
+      "title": "InsightForge — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nData analytics & visualisation. Drop in a CSV and get automatic profiling, recommended charts and plain-language insights, all processed in the browser.\nSource code: https://github.com/Nausheen1295/insightforge\nLive demo: https://nausheen1295.github.io/insightforge/"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:problem-solution",
+      "title": "InsightForge — problem & solution",
+      "section": "problem",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#problem",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nProblem: Exploring a new dataset means writing the same profiling code and charts every time before you learn anything.\nSolution: Infer each column's type, compute its statistics, rank the strongest patterns as plain-language findings with their evidence, and pick the charts that suit the data."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:features",
+      "title": "InsightForge — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#features",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nFeatures:\n- CSV, TSV, delimited text and JSON: drag and drop, file picker or paste (up to 50 MB)\n- Column profiling: type, missing values, distinct counts, summary statistics, outliers and mini histograms\n- Ranked insights: trends, correlations, group differences, skew, outliers, imbalance and data-quality issues\n- Recommended charts plus a chart builder (bar, line, scatter, histogram)\n- Correlation heatmap, filterable and sortable data table, Markdown report download"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:stack",
+      "title": "InsightForge — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#stack",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nTechnologies used: JavaScript, Chart.js, PapaParse, Node test runner."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:ai",
+      "title": "InsightForge — AI components",
+      "section": "ai",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#ai",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nAI / ML components:\n- Rule-based insight engine: trends, Pearson correlations, group effects (η²), skew and outliers\n- Automatic chart recommendation from column types and relationships"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:security",
+      "title": "InsightForge — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#security",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nSecurity:\n- Files are processed in the browser and never uploaded\n- All cell values are escaped before display"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:challenges",
+      "title": "InsightForge — challenges",
+      "section": "challenges",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#challenges",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nChallenges:\n- Prices that rise together correlate strongly just because they share a trend, so insights add that caveat when a date column is present\n- Trend findings were ranked unfairly (+741% below +115%) until their scores were log-scaled\n- Type inference had to handle currency symbols, thousands separators, percentages, missing-value markers and day-first dates"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:decisions",
+      "title": "InsightForge — engineering decisions",
+      "section": "decisions",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#decisions",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nEngineering decisions:\n- Statistics rather than a language model: private, instant, reproducible, and every sentence traceable to a number\n- Colour-blind-checked palettes in both themes, and a table view for every chart"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:database",
+      "title": "InsightForge — database",
+      "section": "database",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#database",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nDatabase: None: files are parsed in the browser and kept only in memory."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:timeline",
+      "title": "InsightForge — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge#timeline",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nDocumented development stages:\n- Idea: Concept defined: upload, profiling, chart suggestions and plain-language insights.\n- Development (2026-10): Built and published as a standalone app.\n- Testing: Unit tests for parsing, type inference, statistics and insights on the sample datasets; browser and accessibility checks.\n- Deployment: Deployed on GitHub Pages."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:undocumented",
+      "title": "InsightForge — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=insightforge",
+      "text": "Project: InsightForge (Data Lab). Status: Live — Shipped and publicly available.\nNOT YET DOCUMENTED for InsightForge: Nausheen's role; results or metrics. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:overview",
+      "title": "EarthPulse — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nClimate & geospatial intelligence. A live world map of earthquakes and natural events, with weather, air quality and a climate trend since 1950 for any place you pick.\nSource code: https://github.com/Nausheen1295/earthpulse\nLive demo: https://nausheen1295.github.io/earthpulse/"
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:problem-solution",
+      "title": "EarthPulse — problem & solution",
+      "section": "problem",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#problem",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nProblem: Earth data is scattered across agencies and formats, so seeing what's happening now, and how a place's climate has changed, takes several sites.\nSolution: One map pulls live feeds from USGS, NASA EONET and Open-Meteo directly in the browser, and turns any clicked point into weather, air quality and warming stripes."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:features",
+      "title": "EarthPulse — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#features",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nFeatures:\n- Live USGS earthquakes (past day, week or month), sized by magnitude and coloured by depth\n- Open NASA EONET natural events: wildfires, storms, volcanoes and more\n- Current weather and 7-day forecast for any point, search or your location\n- Air quality: US AQI, PM2.5, PM10, ozone and NO₂\n- Warming stripes and yearly anomalies since 1950 against the 1991–2020 average, with trend per decade\n- Shareable links and auto-refresh every 5 minutes"
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:stack",
+      "title": "EarthPulse — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#stack",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nTechnologies used: JavaScript, Leaflet, OpenStreetMap, USGS Earthquake API, NASA EONET API, Open-Meteo APIs, SVG charts."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:security",
+      "title": "EarthPulse — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#security",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nSecurity:\n- No backend and no API keys: every data source is public\n- All text from external feeds is escaped before display"
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:architecture",
+      "title": "EarthPulse — architecture",
+      "section": "architecture",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#architecture",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nArchitecture components:\n- Map app (frontend): Leaflet map with layers, tabs and the place panel. Static site on GitHub Pages.\n- Climate engine (ai): Turns ~27,000 daily ERA5 values into yearly anomalies, a trend per decade and a 12-month anomaly, in the browser.\n- USGS & NASA EONET (external): Live earthquake GeoJSON feeds and open natural events.\n- Open-Meteo (external): Forecast, air-quality, geocoding and ERA5 archive APIs.\n- OpenStreetMap (external): Map tiles and reverse geocoding for clicked points.\nData flow: ui → usgs; ui → meteo; ui → osm; ui → climate."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:challenges",
+      "title": "EarthPulse — challenges",
+      "section": "challenges",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#challenges",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nChallenges:\n- The planned basemap provider started requiring an API key, so the map moved to OpenStreetMap tiles, darkened with a CSS filter in dark mode\n- Partial years made the climate trend look artificially warm or cold, so only years with at least 360 days of data count\n- Fast clicks raced several requests at once; a request token makes sure only the newest place renders"
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:decisions",
+      "title": "EarthPulse — engineering decisions",
+      "section": "decisions",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#decisions",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nEngineering decisions:\n- No backend: every source is keyless and allows browser requests, so the app is a static site\n- Each panel fails on its own, so one slow source never blanks the page"
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:database",
+      "title": "EarthPulse — database",
+      "section": "database",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#database",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nDatabase: None: live public APIs; the selected place is kept in the URL."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:timeline",
+      "title": "EarthPulse — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse#timeline",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nDocumented development stages:\n- Idea: Concept defined: real-time climate feeds, maps and trend views.\n- Development (2026-10): Built and published as a standalone app.\n- Testing: Unit tests for the climate maths; browser checks in dark, light and mobile with automated accessibility scans.\n- Deployment: Deployed on GitHub Pages."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:undocumented",
+      "title": "EarthPulse — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=earthpulse",
+      "text": "Project: EarthPulse (Earth Lab). Status: Live — Shipped and publicly available.\nNOT YET DOCUMENTED for EarthPulse: Nausheen's role; results or metrics. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:overview",
+      "title": "FloraMind AI — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nComputer-vision plant intelligence. Snap a leaf to check it for common crop diseases, or identify a house plant with care and pet-safety notes, using computer-vision models that run on the device.\nSource code: https://github.com/Nausheen1295/floramind-ai\nLive demo: https://nausheen1295.github.io/floramind-ai/"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:problem-solution",
+      "title": "FloraMind AI — problem & solution",
+      "section": "problem",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#problem",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nProblem: Spotting plant disease early, or knowing how to care for a plant you can't name, usually means asking an expert.\nSolution: Run two image classifiers in the browser, rate how much each result can be trusted, and pair it with care guidance and a leaf-colour check."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:features",
+      "title": "FloraMind AI — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#features",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nFeatures:\n- Crop health: 38 healthy and diseased classes across 14 crops, with cause, signs and what to do\n- House plants: 47 species with light, water and pet-toxicity notes (ASPCA listings)\n- Calibrated High / Moderate / Low confidence, with alternatives and photo tips when unsure\n- Leaf-aware colour check that ignores pots, soil and skin, with a discoloured-area overlay\n- Upload, drag and drop, paste, phone camera or sample photos; photos never leave the device"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:stack",
+      "title": "FloraMind AI — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#stack",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nTechnologies used: JavaScript, Transformers.js, ONNX Runtime Web, MobileNet-v2, Vision Transformer, Web Workers, Canvas."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:ai",
+      "title": "FloraMind AI — AI components",
+      "section": "ai",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#ai",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nAI / ML components:\n- Plant-disease image classification (MobileNet-v2, 38 classes)\n- House-plant identification (Vision Transformer, 47 classes)\n- Confidence tiers calibrated on real photos"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:security",
+      "title": "FloraMind AI — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#security",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nSecurity:\n- Photos are processed on-device and never uploaded"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:challenges",
+      "title": "FloraMind AI — challenges",
+      "section": "challenges",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#challenges",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nChallenges:\n- The int8 disease model uses an operator (ConvInteger) that the browser runtime doesn't support, so the app uses the 9 MB fp32 build\n- The house-plant model spreads its scores thinly (~13% for correct answers), so confidence is judged by the margin over the runner-up\n- Pots, skin and sunlit leaves skewed the colour check, so discolouration now only counts inside leaf tissue, with recalibrated hue bands"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:decisions",
+      "title": "FloraMind AI — engineering decisions",
+      "section": "decisions",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#decisions",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nEngineering decisions:\n- On-device models so photos stay private and the app works without a server\n- Show 'Not sure' with photo tips rather than a confident-looking wrong answer"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:database",
+      "title": "FloraMind AI — database",
+      "section": "database",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#database",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nDatabase: None."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:results",
+      "title": "FloraMind AI — results",
+      "section": "results",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#results",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nResults: On 25 Wikimedia Commons disease photos the crop model named the exact crop and disease for 10 (all 6 tomato Septoria photos), and often confused potato with tomato late blight. On 23 house-plant photos the plant model named 16 correctly."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:timeline",
+      "title": "FloraMind AI — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai#timeline",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nDocumented development stages:\n- Idea: Concept defined: plant identification, plant-health indicators and care guidance.\n- Development (2026-10): Built and published as a standalone app.\n- Testing: Unit tests for colour analysis, confidence tiers and care-data coverage; models evaluated on openly licensed Wikimedia Commons photos.\n- Deployment: Deployed on GitHub Pages."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:undocumented",
+      "title": "FloraMind AI — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=floramind-ai",
+      "text": "Project: FloraMind AI (Bio Lab). Status: Live — Shipped and publicly available.\nNOT YET DOCUMENTED for FloraMind AI: Nausheen's role. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "playground",
+      "id": "playground:overview",
+      "title": "NEXUS Playground — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playground",
+      "text": "Project: NEXUS Playground (Experimental Lab). Status: Experimental — Playful prototypes and experiments.\nBrowser games & mini-apps, zero libraries. Small games and tools built from scratch in vanilla JavaScript — Canvas rendering, CSS 3D transforms and local high scores."
+    },
+    {
+      "projectId": "playground",
+      "id": "playground:features",
+      "title": "NEXUS Playground — features",
+      "section": "features",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playground#features",
+      "text": "Project: NEXUS Playground (Experimental Lab). Status: Experimental — Playful prototypes and experiments.\nFeatures:\n- Petal Snake (Canvas, swipe + keyboard)\n- Memory Match (CSS 3D card flips, two difficulties)\n- Pixel Studio (free-draw pixel art + color-by-number pictures)\n- Air Pop (webcam game: MediaPipe hand tracking or motion detection)\n- More experiments in progress"
+    },
+    {
+      "projectId": "playground",
+      "id": "playground:stack",
+      "title": "NEXUS Playground — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playground#stack",
+      "text": "Project: NEXUS Playground (Experimental Lab). Status: Experimental — Playful prototypes and experiments.\nTechnologies used: JavaScript, HTML Canvas, CSS, MediaPipe."
+    },
+    {
+      "projectId": "playground",
+      "id": "playground:role",
+      "title": "NEXUS Playground — role",
+      "section": "role",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playground#role",
+      "text": "Project: NEXUS Playground (Experimental Lab). Status: Experimental — Playful prototypes and experiments.\nRole: Designed and built solo."
+    },
+    {
+      "projectId": "playground",
+      "id": "playground:timeline",
+      "title": "NEXUS Playground — development timeline",
+      "section": "timeline",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playground#timeline",
+      "text": "Project: NEXUS Playground (Experimental Lab). Status: Experimental — Playful prototypes and experiments.\nDocumented development stages:\n- Development: Petal Snake (Canvas), Memory Match (CSS 3D), Pixel Studio (CSS Grid pixel art) and Air Pop (webcam game) built in vanilla JavaScript; Air Pop uses MediaPipe for hand tracking."
+    },
+    {
+      "projectId": "playground",
+      "id": "playground:undocumented",
+      "title": "NEXUS Playground — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playground",
+      "text": "Project: NEXUS Playground (Experimental Lab). Status: Experimental — Playful prototypes and experiments.\nNOT YET DOCUMENTED for NEXUS Playground: the problem it solves; database choice; technical challenges; engineering decisions / why choices were made; results or metrics. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "playfair-cipher",
+      "id": "playfair-cipher:overview",
+      "title": "NR Playfair Cipher — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playfair-cipher",
+      "text": "Project: NR Playfair Cipher (Security Lab). Status: Completed — Finished project with public source code.\nExtended classical cipher. A modified Playfair cipher supporting uppercase and lowercase letters, numbers and special characters.\nSource code: https://github.com/Nausheen1295/NR-Playfair-Cipher"
+    },
+    {
+      "projectId": "playfair-cipher",
+      "id": "playfair-cipher:stack",
+      "title": "NR Playfair Cipher — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playfair-cipher#stack",
+      "text": "Project: NR Playfair Cipher (Security Lab). Status: Completed — Finished project with public source code.\nTechnologies used: Python."
+    },
+    {
+      "projectId": "playfair-cipher",
+      "id": "playfair-cipher:security",
+      "title": "NR Playfair Cipher — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playfair-cipher#security",
+      "text": "Project: NR Playfair Cipher (Security Lab). Status: Completed — Finished project with public source code.\nSecurity:\n- Classical cryptography"
+    },
+    {
+      "projectId": "playfair-cipher",
+      "id": "playfair-cipher:undocumented",
+      "title": "NR Playfair Cipher — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=playfair-cipher",
+      "text": "Project: NR Playfair Cipher (Security Lab). Status: Completed — Finished project with public source code.\nNOT YET DOCUMENTED for NR Playfair Cipher: the problem it solves; Nausheen's role; database choice; technical challenges; engineering decisions / why choices were made; results or metrics; development timeline. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "packet-sniffer",
+      "id": "packet-sniffer:overview",
+      "title": "Packet Sniffer — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=packet-sniffer",
+      "text": "Project: Packet Sniffer (Security Lab). Status: Completed — Finished project with public source code.\nCodeAlpha cybersecurity task. A basic network packet sniffer built with Python and Scapy, plus a phishing-awareness video.\nSource code: https://github.com/Nausheen1295/CodeAlpha_CyberSecurity"
+    },
+    {
+      "projectId": "packet-sniffer",
+      "id": "packet-sniffer:stack",
+      "title": "Packet Sniffer — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=packet-sniffer#stack",
+      "text": "Project: Packet Sniffer (Security Lab). Status: Completed — Finished project with public source code.\nTechnologies used: Python, Scapy."
+    },
+    {
+      "projectId": "packet-sniffer",
+      "id": "packet-sniffer:security",
+      "title": "Packet Sniffer — security",
+      "section": "security",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=packet-sniffer#security",
+      "text": "Project: Packet Sniffer (Security Lab). Status: Completed — Finished project with public source code.\nSecurity:\n- Network traffic analysis"
+    },
+    {
+      "projectId": "packet-sniffer",
+      "id": "packet-sniffer:undocumented",
+      "title": "Packet Sniffer — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=packet-sniffer",
+      "text": "Project: Packet Sniffer (Security Lab). Status: Completed — Finished project with public source code.\nNOT YET DOCUMENTED for Packet Sniffer: the problem it solves; Nausheen's role; database choice; technical challenges; engineering decisions / why choices were made; results or metrics; development timeline. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "northstar-analysis",
+      "id": "northstar-analysis:overview",
+      "title": "NorthStar Mobility Analysis — overview",
+      "section": "overview",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=northstar-analysis",
+      "text": "Project: NorthStar Mobility Analysis (Data Lab). Status: Completed — Finished project with public source code.\nUrban mobility & logistics data analysis. Coursework analysing NorthStar urban mobility and logistics data in Jupyter notebooks.\nSource code: https://github.com/Nausheen1295/NorthStar-Coursework"
+    },
+    {
+      "projectId": "northstar-analysis",
+      "id": "northstar-analysis:stack",
+      "title": "NorthStar Mobility Analysis — technologies",
+      "section": "stack",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=northstar-analysis#stack",
+      "text": "Project: NorthStar Mobility Analysis (Data Lab). Status: Completed — Finished project with public source code.\nTechnologies used: Python, Jupyter Notebook."
+    },
+    {
+      "projectId": "northstar-analysis",
+      "id": "northstar-analysis:undocumented",
+      "title": "NorthStar Mobility Analysis — not yet documented",
+      "section": "undocumented",
+      "url": "https://nausheen1295.github.io/portfolio/project.html?id=northstar-analysis",
+      "text": "Project: NorthStar Mobility Analysis (Data Lab). Status: Completed — Finished project with public source code.\nNOT YET DOCUMENTED for NorthStar Mobility Analysis: the problem it solves; Nausheen's role; database choice; technical challenges; engineering decisions / why choices were made; results or metrics; development timeline. Do not guess these — say they are not documented yet."
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:0",
+      "title": "SecureVault AI — README: Military-grade file encryption meets AI-powered threat detection",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n### 🔐 Military-grade file encryption meets AI-powered threat detection\n**[🌐 Live Demo](https://securevaultai-brown.vercel.app)** · **[📖 Documentation](#features)** · **[🐛 Report Bug](https://github.com/Nausheen1295/securevault-ai/issues)**\n---"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:1",
+      "title": "SecureVault AI — README: Screenshots",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n## 📸 Screenshots\n| Login Page | Dashboard |\n|:---:|:---:|\n|   |   |\n| AI Scanner | Blockchain Vault |\n|:---:|:---:|\n|   |   |\n---"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:2",
+      "title": "SecureVault AI — README: AES-256-GCM Encryption",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n### 🔐 AES-256-GCM Encryption\n- Military-grade file encryption\n- PBKDF2 key derivation (310k iterations)\n- Random salt & IV per file\n- 100% local — files never leave your device\n- Batch file processing"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:3",
+      "title": "SecureVault AI — README: AI Threat Scanner",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n### 🤖 AI Threat Scanner\n- Real-time malware detection\n- Shannon entropy analysis\n- File signature matching\n- Confidence scoring system\n- VirusTotal API integration"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:4",
+      "title": "SecureVault AI — README: Biometric Authentication",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n### 👆 Biometric Authentication\n- WebAuthn fingerprint login\n- Face ID via camera API\n- Platform authenticator support\n- Zero biometric data stored\n- Works on all modern devices"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:5",
+      "title": "SecureVault AI — README: Blockchain Key Vault",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n### ⛓️ Blockchain Key Vault\n- Decentralized key storage\n- Ethereum Sepolia testnet\n- MetaMask wallet integration\n- Immutable audit trail\n- Key revocation support"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:6",
+      "title": "SecureVault AI — README: Zero-Knowledge Sharing",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n### 🔗 Zero-Knowledge Sharing\n- Password never in share URL\n- Time-limited expiry links\n- Max view count control\n- One-click revocation\n- Checksum verification"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:7",
+      "title": "SecureVault AI — README: Security Analytics",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n### 📊 Security Analytics\n- Real-time security score\n- Threat history charts\n- Event audit log\n- Risk assessment dashboard\n- Encryption statistics\n---"
+    },
+    {
+      "projectId": "securevault-ai",
+      "id": "securevault-ai:readme:8",
+      "title": "SecureVault AI — README: Live Demo",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/securevault-ai#readme",
+      "text": "Project: SecureVault AI. Status: Live. Source: project README.\n## 🚀 Live Demo\n> 🌐 **[https://securevaultai-brown.vercel.app](https://securevaultai-brown.vercel.app)**"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:readme:0",
+      "title": "Tech World E-Commerce — README: Tech World",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/corizo-ecommerce-website#readme",
+      "text": "Project: Tech World E-Commerce. Status: In development. Source: project README.\n# Tech World\n**Live website:** https://corizo-store.onrender.com\nTech World is a full-stack e-commerce website for electronics: phones, laptops,\ntablets, wearables and accessories. Customers can browse products, manage a\nshopping cart and place cash-on-delivery orders. Store administrators manage\nproducts, stock, orders and customers from a dashboard.\n> The site is hosted on Render's free plan. If it has been idle, the first page\n> load can take up to a minute while the server wakes up."
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:readme:1",
+      "title": "Tech World E-Commerce — README: For customers",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/corizo-ecommerce-website#readme",
+      "text": "Project: Tech World E-Commerce. Status: In development. Source: project README.\n### For customers\n- Browse the product catalogue with live search and category filters\n- Create an account, log in and log out securely\n- Add products to the cart, change quantities and remove items\n- See stock availability and cart totals update instantly\n- Check out with a shipping address and pay by cash on delivery\n- View order history with order status and payment status"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:readme:2",
+      "title": "Tech World E-Commerce — README: For administrators",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/corizo-ecommerce-website#readme",
+      "text": "Project: Tech World E-Commerce. Status: In development. Source: project README.\n### For administrators\n- Dashboard with active products, total orders, orders to process and revenue\n- Add, edit, hide and restore products\n- Upload product images straight from the dashboard\n- Update order status (Pending → Confirmed → Shipped → Delivered, or Cancelled)\n- Stock is returned automatically when an order is cancelled\n- View all registered customers"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:readme:3",
+      "title": "Tech World E-Commerce — README: Security",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/corizo-ecommerce-website#readme",
+      "text": "Project: Tech World E-Commerce. Status: In development. Source: project README.\n### Security\n- Passwords are hashed with bcrypt and never stored in plain text\n- Login sessions are stored in the database with secure, HTTP-only cookies\n- Admin pages and actions are protected on the server\n- Prices and stock are always checked on the server, never trusted from the browser"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:readme:4",
+      "title": "Tech World E-Commerce — README: Tools and technologies",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/corizo-ecommerce-website#readme",
+      "text": "Project: Tech World E-Commerce. Status: In development. Source: project README.\n## Tools and technologies\n| Area | Tools |\n|---|---|\n| Frontend | HTML5, CSS3, JavaScript, Bootstrap 5 |\n| Backend | Node.js, Express.js |\n| Database | MongoDB Atlas, Mongoose |\n| Authentication | express-session, connect-mongo, bcryptjs |\n| Image uploads | Cloudinary, Multer |\n| Testing | Automated end-to-end test of the full shopping flow (Node.js) |\n| Version control | Git, GitHub |\n| Hosting | Render |\n| Code editor | Visual Studio Code |"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:readme:5",
+      "title": "Tech World E-Commerce — README: Pages",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/corizo-ecommerce-website#readme",
+      "text": "Project: Tech World E-Commerce. Status: In development. Source: project README.\n## Pages\n| Page | Description |\n|---|---|\n| Home | Product catalogue with search and filters |\n| Register / Log in | Customer accounts |\n| Cart | Review items, change quantities and see totals |\n| Checkout | Shipping details and cash-on-delivery order |\n| My orders | Order history and status tracking |\n| Admin dashboard | Manage products, orders and customers |"
+    },
+    {
+      "projectId": "corizo-ecommerce",
+      "id": "corizo-ecommerce:readme:6",
+      "title": "Tech World E-Commerce — README: Project structure",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/corizo-ecommerce-website#readme",
+      "text": "Project: Tech World E-Commerce. Status: In development. Source: project README.\n## Project structure\n```\n├── models/        Database schemas (User, Product, Order)\n├── routes/        API routes (auth, products, cart, orders, uploads)\n├── middleware/    Login and admin access checks\n├── public/        Website pages, styles, scripts and product images\n├── test/          End-to-end shopping flow test\n├── server.js      Express server\n└── seed.js        Loads the starting product catalogue\n```\n---\nNausheen's e-commerce project, built with HTML, Bootstrap, Node.js and MongoDB."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:0",
+      "title": "Student Management App — README: Corizo Student Management CRUD Application",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n# Corizo Student Management CRUD Application\nA responsive full-stack Student Management application developed as part of my Corizo Web Development training."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:1",
+      "title": "Student Management App — README: Live Demo",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Live Demo\n**Live Application:** https://corizo-student-management.onrender.com/\n**GitHub Repository:** https://github.com/Nausheen1295/Corizo-CRUD-Application"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:2",
+      "title": "Student Management App — README: Overview",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Overview\nThe application allows users to manage student records through a simple dashboard. It supports creating, viewing, updating, deleting, and searching student information."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:3",
+      "title": "Student Management App — README: Features",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Features\n- Create new student records\n- View all registered students\n- Update existing student details\n- Delete student records with confirmation\n- Search by student name, email, phone number, or course\n- Validate required form fields\n- Prevent duplicate email addresses\n- Store records in MongoDB Atlas\n- Responsive interface built with Bootstrap\n- REST API built with Express.js"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:4",
+      "title": "Student Management App — README: Technology Stack",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Technology Stack\n**Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5\n**Backend:** Node.js, Express.js\n**Database:** MongoDB Atlas, Mongoose\n**Tools:** Visual Studio Code, Git, GitHub, Render"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:5",
+      "title": "Student Management App — README: Project Structure",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Project Structure\n```text\nCorizo-CRUD-Application/\n├── models/\n│   └── Student.js\n├── routes/\n│   └── studentRoutes.js\n├── public/\n│   ├── index.html\n│   ├── style.css\n│   └── script.js\n├── .env\n├── .gitignore\n├── server.js\n├── package.json\n└── package-lock.json\n```"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:6",
+      "title": "Student Management App — README: Run Locally",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Run Locally\n1. Install Node.js.\n2. Clone this repository.\n3. Install the dependencies:\n   ```bash\n   npm install\n   ```\n4. Create a `.env` file in the project root:\n   ```env\n   MONGO_URI=YOUR_MONGODB_ATLAS_CONNECTION_STRING\n   PORT=5000\n   ```\n5. Replace the placeholder with your own MongoDB Atlas connection string.\n6. Start the development server:\n   ```bash\n   npm run dev\n   ```\n7. Open `http://localhost:5000` in your browser."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:7",
+      "title": "Student Management App — README: API Endpoints",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## API Endpoints\n| Method | Endpoint | Description |\n|---|---|---|\n| GET | `/api/students` | Retrieve all students |\n| GET | `/api/students/:id` | Retrieve one student |\n| POST | `/api/students` | Create a student |\n| PUT | `/api/students/:id` | Update a student |\n| DELETE | `/api/students/:id` | Delete a student |\n| GET | `/api/test` | Check API status |\nSearch example: `/api/students?search=Computer`"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:8",
+      "title": "Student Management App — README: Learning Outcomes",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Learning Outcomes\n- Understanding CRUD operations and REST APIs\n- Connecting a Node.js backend to MongoDB Atlas\n- Implementing frontend/backend communication with Fetch API\n- Organizing an application using models and routes\n- Using Git and GitHub for version control\n- Deploying a full-stack application to a cloud hosting platform"
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:9",
+      "title": "Student Management App — README: Security Notes",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Security Notes\n- Database credentials must remain in environment variables.\n- The `.env` file must not be committed to GitHub.\n- Demo data should be fictional.\n- Production deployments should use appropriate database access restrictions."
+    },
+    {
+      "projectId": "corizo-student-management",
+      "id": "corizo-student-management:readme:10",
+      "title": "Student Management App — README: Credits",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/Corizo-CRUD-Application#readme",
+      "text": "Project: Student Management App. Status: Completed. Source: project README.\n## Credits\nDeveloped as part of Corizo Web Development training."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:readme:0",
+      "title": "MindScape AI — README: MindScape AI",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/mindscape-ai#readme",
+      "text": "Project: MindScape AI. Status: Live. Source: project README.\n# MindScape AI\n**A private, AI-powered second brain.** Write notes and MindScape links related ideas, maps your knowledge as a graph and answers questions from what you've written.\n🧠 **Live site:** https://nausheen1295.github.io/mindscape-ai/\nThe AI runs **on your device**. Notes are stored in your browser and never sent to a server.\nPart of the Knowledge Lab in my portfolio, [NEXUS](https://nausheen1295.github.io/portfolio/)."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:readme:1",
+      "title": "MindScape AI — README: Features",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/mindscape-ai#readme",
+      "text": "Project: MindScape AI. Status: Live. Source: project README.\n## Features\n- **Notes:**\n  - Markdown with a live preview.\n  - Tag with `#tag` and link with `[[Note title]]`; clicking a link to a note that doesn't exist yet creates it.\n  - Notes autosave, and you can download any note as a `.md` file.\n- **Related by meaning:** every note is turned into a 384-dimension sentence embedding.\n  - MindScape lists the notes closest in meaning, even with no words in common (e.g. *AES-GCM* ↔ *Password hashing*).\n  - One click links a related note into the one you're writing.\n- **Semantic search:** search \"keeping my secrets safe\" and you get the security notes. Results are ranked by a blend of meaning and keywords.\n- **Knowledge graph:** an interactive force-directed map.\n  - Solid lines are your links, and dashed lines are connections found by meaning, with an adjustable similarity threshold.\n  - Drag, zoom, hover to highlight neighbours, and click to open a note. It also works with the keyboard.\n- **Ask your notes:** ask a question in plain words.\n  - Every passage in your notebook is scored against the question, and the best matches are shown with their source note.\n  - It is extractive: MindScape never writes text that isn't in your notes, and it says so when nothing matches.\n- **Tags, links and backlinks:** filter by tag, and see which notes link here.\n- **Backups:** export and import JSON, add the sample notes, or start empty.\n- **Fallback:** keyword (TF-IDF) matching is used until the model loads, or if it can't."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:readme:2",
+      "title": "MindScape AI — README: How it works",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/mindscape-ai#readme",
+      "text": "Project: MindScape AI. Status: Live. Source: project README.\n## How it works\n```\nNotes (IndexedDB, this browser only)\n   │\n   ├── js/semantic.js        parse [[links]] / #tags, TF-IDF fallback, cosine similarity,\n   │                         semantic link selection, passage chunking   (unit-tested)\n   ├── js/embed-worker.js    Web Worker running all-MiniLM-L6-v2 (quantised ONNX, ~23 MB)\n   │                         via Transformers.js; mean-pooled, L2-normalised embeddings\n   ├── js/store.js           IndexedDB: notes + embedding cache keyed by content hash\n   └── js/app.js             editor, related notes, search, D3 force graph, Ask\n```\n- **Off the main thread:** the model runs in a Web Worker, so typing never stutters. It downloads once and is then cached by the browser.\n- **Embedding cache:** embeddings are cached by a hash of each note's text, so only notes that change are re-embedded.\n- **Link selection:** each note keeps at most its strongest few semantic partners, so a general note can't link to everything."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:readme:3",
+      "title": "MindScape AI — README: Tech",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/mindscape-ai#readme",
+      "text": "Project: MindScape AI. Status: Live. Source: project README.\n## Tech\nJavaScript (ES modules), [Transformers.js](https://huggingface.co/docs/transformers.js) with [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2), [D3](https://d3js.org/) force simulation, [marked](https://marked.js.org/) + [DOMPurify](https://github.com/cure53/DOMPurify), IndexedDB and Web Workers. There is no build step and no backend."
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:readme:4",
+      "title": "MindScape AI — README: Run locally",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/mindscape-ai#readme",
+      "text": "Project: MindScape AI. Status: Live. Source: project README.\n## Run locally\n```bash\ngit clone https://github.com/Nausheen1295/mindscape-ai.git\ncd mindscape-ai\nnpx serve .          # or: python -m http.server  (workers need http://, not file://)\nnpm test             # unit tests for the text & similarity helpers (Node 20+)\n```"
+    },
+    {
+      "projectId": "mindscape-ai",
+      "id": "mindscape-ai:readme:5",
+      "title": "MindScape AI — README: Privacy and limits",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/mindscape-ai#readme",
+      "text": "Project: MindScape AI. Status: Live. Source: project README.\n## Privacy and limits\n- **Privacy:** notes and embeddings stay in your browser's IndexedDB. Clearing site data deletes them, so use **Settings → Export** for backups.\n- **First load:** the model (~23 MB) downloads on first use, and keyword matching is used until then.\n- **Language:** the model is English-focused.\n---\nBuilt by **Nausheen Haleelur Rahman**. [Portfolio](https://nausheen1295.github.io/portfolio/) · [GitHub](https://github.com/Nausheen1295)"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:readme:0",
+      "title": "InsightForge — README: InsightForge",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/insightforge#readme",
+      "text": "Project: InsightForge. Status: Live. Source: project README.\n# InsightForge\n**Drop in a dataset and get the story.** Automatic profiling, recommended charts and plain-language insights.\n📊 **Live site:** https://nausheen1295.github.io/insightforge/\nInsightForge turns a raw CSV into answers in seconds. It works out what each column is, measures it, picks the charts that suit the data, and writes up what stands out, with the numbers behind every finding. Everything runs in your browser tab, so your file is never uploaded.\nPart of the Data Lab in my portfolio, [NEXUS](https://nausheen1295.github.io/portfolio/)."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:readme:1",
+      "title": "InsightForge — README: Features",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/insightforge#readme",
+      "text": "Project: InsightForge. Status: Live. Source: project README.\n## Features\n- **Load anything tabular:** CSV, TSV, semicolon- or pipe-separated text, or JSON arrays.\n  - Drag and drop, choose a file, or paste data. Files can be up to 50 MB (200,000 rows).\n- **Automatic profiling:** each column is classified as number, category, date, yes/no, ID or text.\n  - Shows missing values, distinct counts, mean, median, standard deviation, range and outliers (1.5 × IQR).\n  - Each column also gets a mini histogram or its top values.\n- **Plain-language insights,** ranked by strength:\n  - trends over time (start vs end, peak)\n  - strong correlations (Pearson r)\n  - which category explains the most variation in a measure (η²)\n  - skewed distributions, outliers, dominant categories\n  - data-quality issues: gaps, duplicate rows, constant columns\n  - Every finding shows its evidence, and none claims cause and effect.\n- **Recommended charts:**\n  - a line chart for date columns, plus several measures indexed to 100 so they compare on one axis\n  - a scatter plot of the strongest relationship, coloured by group\n  - average by the most influential category, category counts, and histograms\n- **Chart builder:** bar, line, scatter or histogram, with count, sum, mean, median, min or max and colour-by. It explains why when a combination doesn't make sense.\n- **Correlation heatmap** across numeric columns.\n- **Data table** with filtering and sorting.\n- **Downloadable report:** a Markdown summary of findings and column profiles.\n- **Accessible charts:** every chart has a table view, and colour palettes are colour-blind-checked in both light and dark themes."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:readme:2",
+      "title": "InsightForge — README: Try it with the samples",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/insightforge#readme",
+      "text": "Project: InsightForge. Status: Live. Source: project README.\n## Try it with the samples\n| Sample | What InsightForge finds |\n|---|---|\n| Palmer Penguins | Flipper length and body mass are strongly correlated (r = 0.87). Species explains 78% of the variation in flipper length. |\n| Stock prices 2007–2016 | AAPL rose about 740% over the period. Prices correlate strongly, but all are trending over time, and the app says so. |\n| Restaurant tips | Tip tracks the total bill (r = 0.68). Bills are right-skewed, and 72% of rows are dinner. |"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:readme:3",
+      "title": "InsightForge — README: How it works",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/insightforge#readme",
+      "text": "Project: InsightForge. Status: Live. Source: project README.\n## How it works\n```\nFile / paste / sample\n      │  PapaParse (delimiter sniffing) or JSON.parse\n      ▼\njs/profile.js   pure analysis engine (unit-tested)\n      │  type inference → column stats → correlations, η², skew, outliers, trends\n      ├──► insights()      ranked plain-language findings with evidence\n      └──► suggestCharts() chart specs chosen from column types and relationships\n      ▼\njs/charts.js    Chart.js rendering; colours read from CSS tokens per theme\njs/app.js       tabs, builder, columns, heatmap, table, report export\n```\n- **Rule-based insights:** findings come from a statistical engine, not a language model. That makes them fast, private and reproducible, and every sentence can be traced to a number.\n- **Type inference:** detection is tolerant of currency symbols, thousands separators, percentages, common \"missing\" markers (`NA`, `null`, `-`, …) and several date formats.\n- **Large files:** long series are evenly thinned for drawing, but all statistics use every row."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:readme:4",
+      "title": "InsightForge — README: Tech",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/insightforge#readme",
+      "text": "Project: InsightForge. Status: Live. Source: project README.\n## Tech\nHTML, CSS and JavaScript (ES modules), [Chart.js](https://www.chartjs.org/) and [PapaParse](https://www.papaparse.com/). There is no build step and no backend."
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:readme:5",
+      "title": "InsightForge — README: Run locally",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/insightforge#readme",
+      "text": "Project: InsightForge. Status: Live. Source: project README.\n## Run locally\n```bash\ngit clone https://github.com/Nausheen1295/insightforge.git\ncd insightforge\nnpx serve .          # or: python -m http.server\nnpm test             # unit tests for the analysis engine (Node 20+)\n```"
+    },
+    {
+      "projectId": "insightforge",
+      "id": "insightforge:readme:6",
+      "title": "InsightForge — README: Sample data credits",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/insightforge#readme",
+      "text": "Project: InsightForge. Status: Live. Source: project README.\n## Sample data credits\n- **Palmer Penguins:** Gorman, Williams & Fraser (2014), via [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/). CC0.\n- **Tips:** Bryant & Smith (1995), via [seaborn-data](https://github.com/mwaskom/seaborn-data).\n- **Stock prices:** Yahoo Finance daily adjusted closes, via [plotly/datasets](https://github.com/plotly/datasets). This is the same data as my [Stock Price Prediction](https://github.com/Nausheen1295/portfolio/tree/main/projects/stock-price-prediction) project.\n---\nBuilt by **Nausheen Haleelur Rahman**. [Portfolio](https://nausheen1295.github.io/portfolio/) · [GitHub](https://github.com/Nausheen1295)"
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:readme:0",
+      "title": "EarthPulse — README: EarthPulse",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/earthpulse#readme",
+      "text": "Project: EarthPulse. Status: Live. Source: project README.\n# EarthPulse\n**Climate & geospatial intelligence on one live map.**\n🌍 **Live site:** https://nausheen1295.github.io/earthpulse/\nEarthPulse brings real-time earth data together in one place. See earthquakes and natural events as they happen, then click any point on the planet to get its weather, air quality and long-term climate trend.\nPart of the Earth Lab in my portfolio, [NEXUS](https://nausheen1295.github.io/portfolio/)."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:readme:1",
+      "title": "EarthPulse — README: Features",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/earthpulse#readme",
+      "text": "Project: EarthPulse. Status: Live. Source: project README.\n## Features\n- **Live earthquakes:** USGS feeds for the past day, week or month.\n  - Marker size shows magnitude and colour shows depth.\n  - Tsunami flags are shown, and every quake links to its USGS event page.\n- **Natural events:** open NASA EONET events (wildfires, severe storms, volcanoes, sea ice and more), filterable by type.\n- **Any place on Earth:** click the map, search a city or use your location to see:\n  - current weather and a 7-day forecast\n  - air quality (US AQI, PM2.5, PM10, O₃, NO₂)\n  - the climate trend since 1950\n- **Climate trend:**\n  - Warming stripes and a yearly anomaly chart against the 1991–2020 average, built from ERA5 reanalysis.\n  - Also shows the trend in °C per decade, how the past 12 months compare, and the warmest year on record for that point.\n- **Shareable links:** the selected place is kept in the URL (`?lat=…&lon=…&name=…`).\n- **Auto-refresh:** feeds refresh every 5 minutes.\n- **Themes and devices:** dark and light themes, keyboard-friendly tabs and search, and a layout that works on phones."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:readme:2",
+      "title": "EarthPulse — README: How it works",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/earthpulse#readme",
+      "text": "Project: EarthPulse. Status: Live. Source: project README.\n## How it works\n```\nBrowser (static site on GitHub Pages)\n│\n├── Leaflet map ◄── OpenStreetMap tiles\n├── js/api.js ──► USGS earthquake GeoJSON feeds\n│             ──► NASA EONET v3 events\n│             ──► Open-Meteo forecast, air-quality, geocoding and ERA5 archive APIs\n│             ──► Nominatim reverse geocoding (place names for clicked points)\n├── js/climate.js   pure functions: yearly anomalies, trend, 12-month anomaly, colour scales\n└── js/app.js       map layers, panels, search and URL state\n```\n- There is no backend and no API keys. Every data source is free, public and allows browser requests.\n- The climate maths runs in the browser on about 27,000 daily values per place.\n- Only complete years count, so a partial year never looks unusually warm or cold.\n- Each panel fails on its own. If one source is down, the rest of the page keeps working, and a newer selection always replaces an older one that is still loading."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:readme:3",
+      "title": "EarthPulse — README: Tech",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/earthpulse#readme",
+      "text": "Project: EarthPulse. Status: Live. Source: project README.\n## Tech\nHTML, CSS and JavaScript (ES modules), [Leaflet](https://leafletjs.com/) and hand-drawn SVG charts. There is no build step."
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:readme:4",
+      "title": "EarthPulse — README: Run locally",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/earthpulse#readme",
+      "text": "Project: EarthPulse. Status: Live. Source: project README.\n## Run locally\n```bash\ngit clone https://github.com/Nausheen1295/earthpulse.git\ncd earthpulse\nnpx serve .          # or: python -m http.server\nnpm test             # unit tests for the climate maths (Node 20+)\n```"
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:readme:5",
+      "title": "EarthPulse — README: Data sources",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/earthpulse#readme",
+      "text": "Project: EarthPulse. Status: Live. Source: project README.\n## Data sources\n| Data | Source |\n|---|---|\n| Earthquakes | [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/earthquakes/feed/) |\n| Natural events | [NASA EONET](https://eonet.gsfc.nasa.gov/) |\n| Weather, air quality, geocoding, ERA5 climate archive | [Open-Meteo](https://open-meteo.com/) |\n| Map tiles, reverse geocoding | © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors |"
+    },
+    {
+      "projectId": "earthpulse",
+      "id": "earthpulse:readme:6",
+      "title": "EarthPulse — README: Limits",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/earthpulse#readme",
+      "text": "Project: EarthPulse. Status: Live. Source: project README.\n## Limits\n- **Grid resolution:** ERA5 is a reanalysis on a grid of about 25 km. The trend describes that grid cell, not a single weather station.\n- **Air quality:** the readings are modelled values from Open-Meteo, not sensor measurements.\n---\nBuilt by **Nausheen Haleelur Rahman**. [Portfolio](https://nausheen1295.github.io/portfolio/) · [GitHub](https://github.com/Nausheen1295)"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:readme:0",
+      "title": "FloraMind AI — README: FloraMind AI",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/floramind-ai#readme",
+      "text": "Project: FloraMind AI. Status: Live. Source: project README.\n# FloraMind AI\n**Computer-vision plant intelligence that runs on your device.** Snap a leaf to check it for common crop diseases, or identify a house plant and get care and pet-safety notes.\n🌿 **Live site:** https://nausheen1295.github.io/floramind-ai/\nPhotos are never uploaded: both neural networks run in the browser with Transformers.js.\nPart of the Bio Lab in my portfolio, [NEXUS](https://nausheen1295.github.io/portfolio/)."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:readme:1",
+      "title": "FloraMind AI — README: Features",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/floramind-ai#readme",
+      "text": "Project: FloraMind AI. Status: Live. Source: project README.\n## Features\n- **Check crop health:**\n  - 38 classes covering 14 crops (tomato, potato, apple, grape, maize, pepper, peach, strawberry and more), both healthy and diseased.\n  - Each diagnosis comes with its cause, what to look for, and what you can do.\n- **Identify a house plant:** 47 popular indoor plants, with light and water needs and pet toxicity based on ASPCA listings. Highly toxic plants such as lilies and sago palm are flagged.\n- **Leaf colour check:**\n  - Measures green, yellow and brown leaf tissue, ignoring pots, soil, skin and background.\n  - Can highlight discoloured areas on the photo.\n  - Clearly labelled as an *indicator*, not a diagnosis.\n- **Honest confidence:**\n  - Every result is rated High, Moderate or Low, with alternatives listed.\n  - Low-confidence results say so, and give tips for a better photo instead of guessing.\n- **Input options:** upload, drag and drop, paste, phone camera, or six sample photos."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:readme:2",
+      "title": "FloraMind AI — README: How it works",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/floramind-ai#readme",
+      "text": "Project: FloraMind AI. Status: Live. Source: project README.\n## How it works\n```\nPhoto ─► canvas (≤ 900 px) ─┬─► js/analysis.js      leaf-aware colour classification (unit-tested)\n                            │\n                            └─► js/vision-worker.js  Web Worker + Transformers.js (ONNX Runtime Web)\n                                   ├─ crop health: MobileNet-v2, fine-tuned on New Plant Diseases (38 classes, 9 MB)\n                                   └─ house plants: ViT-Base, fine-tuned on 47 house plants (4-bit, ~57 MB, loaded on demand)\n                                         │ top-5 labels + scores\n                                         ▼\n                            rateResult() confidence tiers ─► js/care.js guidance ─► result card\n```"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:readme:3",
+      "title": "FloraMind AI — README: Confidence calibration",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/floramind-ai#readme",
+      "text": "Project: FloraMind AI. Status: Live. Source: project README.\n### Confidence calibration\nThe two models behave very differently, so each gets its own rule. I tested them on openly licensed Wikimedia Commons photos before setting the thresholds.\n| Model | Behaviour on real photos | Rule |\n|---|---|---|\n| Crop health | Sharp: correct answers often score 35–98% | High ≥ 60% · Moderate ≥ 30% and 1.5× the runner-up |\n| House plants | Flat: correct answers score ~13% against ~3% for the next guess | High: ≥ 2.5× the runner-up · Moderate ≥ 1.6× |"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:readme:4",
+      "title": "FloraMind AI — README: Field test",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/floramind-ai#readme",
+      "text": "Project: FloraMind AI. Status: Live. Source: project README.\n### Field test\nThe lab results don't carry over fully to real-world photos:\n| Model | Reported accuracy (own test set) | My test on Wikimedia Commons photos |\n|---|---|---|\n| Crop health | ~95% | 10 of 25 exactly right (crop + disease), 12 of 25 right disease. It was right on all 6 tomato Septoria photos and often mixed up potato and tomato late blight. Several test images were microscope shots or drawings. |\n| House plants | ~90% | 16 of 23 right (top answer) |\nThe crop model was trained on PlantVillage-style photos: single leaves on plain backgrounds. It does best on similar shots, which is why the app asks for one leaf filling the frame."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:readme:5",
+      "title": "FloraMind AI — README: Tech",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/floramind-ai#readme",
+      "text": "Project: FloraMind AI. Status: Live. Source: project README.\n## Tech\nJavaScript (ES modules), [Transformers.js](https://huggingface.co/docs/transformers.js) (ONNX Runtime Web), Web Workers and Canvas. There is no build step and no backend."
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:readme:6",
+      "title": "FloraMind AI — README: Run locally",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/floramind-ai#readme",
+      "text": "Project: FloraMind AI. Status: Live. Source: project README.\n## Run locally\n```bash\ngit clone https://github.com/Nausheen1295/floramind-ai.git\ncd floramind-ai\nnpx serve .          # or: python -m http.server  (workers need http://, not file://)\nnpm test             # unit tests: colour analysis, confidence tiers, care-data coverage (Node 20+)\n```"
+    },
+    {
+      "projectId": "floramind-ai",
+      "id": "floramind-ai:readme:7",
+      "title": "FloraMind AI — README: Credits",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/floramind-ai#readme",
+      "text": "Project: FloraMind AI. Status: Live. Source: project README.\n## Credits\n- **Crop health model:** [linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification](https://huggingface.co/linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification), using the ONNX conversion by onnx-community.\n- **House plant model:** [dima806/house-plant-image-detection](https://huggingface.co/dima806/house-plant-image-detection) (Apache-2.0), using the ONNX conversion by onnx-community.\n- **Sample photos:** from Wikimedia Commons. Authors and licences are listed in [`samples/credits.json`](samples/credits.json) and in the site footer.\n- **Guidance:** care and disease notes are general guidance written for this project. Confirm serious plant problems with a local plant clinic or agricultural extension service.\n---\nBuilt by **Nausheen Haleelur Rahman**. [Portfolio](https://nausheen1295.github.io/portfolio/) · [GitHub](https://github.com/Nausheen1295)"
+    },
+    {
+      "projectId": "packet-sniffer",
+      "id": "packet-sniffer:readme:0",
+      "title": "Packet Sniffer — README: CodeAlpha_CyberSecurity",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/CodeAlpha_CyberSecurity#readme",
+      "text": "Project: Packet Sniffer. Status: Completed. Source: project README.\n# CodeAlpha_CyberSecurity\nBasic packet sniffer using Python and Scapy"
+    },
+    {
+      "projectId": "packet-sniffer",
+      "id": "packet-sniffer:readme:1",
+      "title": "Packet Sniffer — README: Phishing Awareness Video",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/CodeAlpha_CyberSecurity#readme",
+      "text": "Project: Packet Sniffer. Status: Completed. Source: project README.\n## 🎥 Phishing Awareness Video\n[ ](https://youtu.be/XPkP0C46a4I)"
+    },
+    {
+      "projectId": "northstar-analysis",
+      "id": "northstar-analysis:readme:0",
+      "title": "NorthStar Mobility Analysis — README: NorthStar-Coursework",
+      "section": "readme",
+      "url": "https://github.com/Nausheen1295/NorthStar-Coursework#readme",
+      "text": "Project: NorthStar Mobility Analysis. Status: Completed. Source: project README.\n# NorthStar-Coursework\nCoursework repository for NorthStar Urban Mobility and Logistics data analysis."
+    }
+  ]
+}

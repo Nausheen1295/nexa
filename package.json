@@ -1,0 +1,10 @@
+{
+  "name": "nexa",
+  "private": true,
+  "type": "module",
+  "description": "NEXA — portfolio assistant: static website + FastAPI backend.",
+  "scripts": {
+    "test": "node --test \"tests/*.test.mjs\"",
+    "test:backend": "cd backend && pytest"
+  }
+}
