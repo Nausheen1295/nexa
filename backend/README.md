@@ -72,7 +72,7 @@ Other hosts (Fly.io, Railway, Cloud Run) work too: deploy `backend/` with its `D
 - **API key:** stays server-side only. Nothing in `app/` or the website contains secrets (a test enforces this).
 - **CORS:** only the portfolio's origin (plus localhost) may call the API from a browser.
 - **Input limits:** strict validation, a 32 KB body cap and a 500-character question limit.
-- **Rate limiting:** per visitor, per minute and per day. It's in-memory, so use Redis if you run more than one instance.
+- **Rate limiting:** per visitor, per minute and per day. The application does not trust a client-supplied `X-Forwarded-For`; when deployed behind a proxy, uvicorn's proxy-header handling establishes `request.client`. It's in-memory, so use Redis if you run more than one instance.
 - **Prompt injection:** documents and questions are treated as data. The system prompt tells the model to ignore instructions inside them, and citations are verified server-side.
 - **Exposure and logging:** the auto-generated `/docs` pages are disabled, and logs record mode, counts and latency, never the question text.
 - **Cost control:** rate limits, a `NEXA_MAX_TOKENS` cap, low effort, and a no-match short-circuit that skips the model entirely.

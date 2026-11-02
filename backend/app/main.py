@@ -59,8 +59,9 @@ def create_app(settings: Settings | None = None, *, retriever: Retriever | None 
         return response
 
     def client_key(request: Request) -> str:
-        if settings.trust_proxy and (fwd := request.headers.get("x-forwarded-for")):
-            return fwd.split(",")[0].strip()
+        # Do not parse X-Forwarded-For here: clients can send that header
+        # themselves. When proxy support is enabled, uvicorn's proxy-header
+        # middleware must be the component that establishes request.client.
         return request.client.host if request.client else "unknown"
 
     @app.get("/healthz")

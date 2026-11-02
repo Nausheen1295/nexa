@@ -124,6 +124,16 @@ def test_rate_limit_429_with_retry_after():
     assert int(r.headers["Retry-After"]) >= 1 and r.json()["retryAfter"] >= 1
 
 
+def test_spoofed_forwarded_for_does_not_change_rate_limit_identity():
+    c = client_with(FakeGenerator(), rate_limit_per_minute=1)
+    first = c.post("/chat", json={"question": "SecureVault AI"},
+                   headers={"X-Forwarded-For": "198.51.100.1"})
+    second = c.post("/chat", json={"question": "SecureVault AI"},
+                    headers={"X-Forwarded-For": "198.51.100.2"})
+    assert first.status_code == 200
+    assert second.status_code == 429
+
+
 def test_cors_allows_only_configured_origins():
     c = client_with(FakeGenerator())
     ok = c.options("/chat", headers={"Origin": "https://nausheen1295.github.io", "Access-Control-Request-Method": "POST"})
